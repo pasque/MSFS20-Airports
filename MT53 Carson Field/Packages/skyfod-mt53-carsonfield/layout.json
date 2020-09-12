@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/skyfod-mt53-carsonfield/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399233780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132444118373332456
+    },
+    {
+      "path": "scenery/world/scenery/CVX0053.BGL",
+      "size": 1910,
+      "date": 132444129430957810
+    },
+    {
+      "path": "scenery/world/scenery/mt53.bgl",
+      "size": 183137,
+      "date": 132444129430718200
+    }
+  ]
+}

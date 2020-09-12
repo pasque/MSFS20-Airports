@@ -1,0 +1,31 @@
+<AssetPackage Name="skyfod-mt53-carsonfield" Version="1.0.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\skyfod-mt53-carsonfield\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\skyfod-mt53-carsonfield\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mt53-scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\</AssetDir>
+			<OutputDir>scenery\world\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
