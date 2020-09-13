@@ -1,0 +1,31 @@
+<AssetPackage Name="skyfod-skyfod-58s-whitefish" Version="1.0.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\skyfod-skyfod-58s-whitefish\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\skyfod-skyfod-58s-whitefish</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="skyfod-skyfod-58s-whitefish">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<SceneryObject lat="48.40888294339667" lon="-114.30480311937578" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<Airport country="United States" state="Montana" city="Whitefish" name="Whitefish Airport" ident="58S" lat="48.40853656930594" lon="-114.30197017579938" alt="951.73306055087596" magvar="18.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiName index="0" name=""/>
+		<Runway lat="48.40874485383920" lon="-114.30223279636424" alt="931.33342335280031" heading="115.00000000000000" length="780.00000000000000" width="23.00000000000000" patternAltitude="935.00000000000000" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" transparent="FALSE" number="11" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="48.40937474344766" lon="-114.30223279613867" alt="931.32761956006289" heading="180.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="48.40811496408923" lon="-114.30223279658979" alt="931.33922677673399" heading="0.00000000000000"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<DeleteAirport deleteAllApproaches="TRUE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE"/>
+	</Airport>
+</FSData>
+

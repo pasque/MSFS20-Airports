@@ -1,0 +1,8 @@
+<Project Version="2" Name="skyfod-58S-whitefish" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\skyfod-skyfod-58s-whitefish.xml</Package>
+	</Packages>
+</Project>
+

@@ -1,0 +1,8 @@
+<Project Version="2" Name="skyfod-8U2-SchaferUSFS" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\skyfod-8u2-schaferusfs.xml</Package>
+	</Packages>
+</Project>
+
