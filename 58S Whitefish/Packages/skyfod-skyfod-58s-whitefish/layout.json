@@ -6,9 +6,14 @@
       "date": 132399233780000000
     },
     {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132444329056811927
+    },
+    {
       "path": "scenery/58s-whitefish.bgl",
       "size": 180146,
-      "date": 132444329056422550
+      "date": 132444903181285969
     },
     {
       "path": "scenery/CVX0058.BGL",

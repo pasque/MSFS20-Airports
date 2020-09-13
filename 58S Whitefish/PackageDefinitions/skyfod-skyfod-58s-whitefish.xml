@@ -1,4 +1,4 @@
-<AssetPackage Name="skyfod-skyfod-58s-whitefish" Version="1.0.0">
+<AssetPackage Name="skyfod-skyfod-58s-whitefish" ReleaseNotes="PackageDefinitions\skyfod-skyfod-58s-whitefish\ReleaseNotes.xml" Version="1.0.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title/>
@@ -15,16 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\skyfod-skyfod-58s-whitefish\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\skyfod-skyfod-58s-whitefish</OutputDir>
+			<AssetDir>PackageDefinitions\skyfod-skyfod-58s-whitefish\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\skyfod-skyfod-58s-whitefish\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="skyfod-skyfod-58s-whitefish">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>scene</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>scene\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
