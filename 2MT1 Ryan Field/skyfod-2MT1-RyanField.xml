@@ -1,0 +1,8 @@
+<Project Version="2" Name="skyfod-2MT1-RyanField" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\skyfod-2mt1-ryanfield.xml</Package>
+	</Packages>
+</Project>
+

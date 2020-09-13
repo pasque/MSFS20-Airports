@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Car03_Blue-->
+	<SceneryObject lat="48.48351937126404" lon="-113.96060253847668" alt="0.00000000000000" pitch="0.001332" bank="-0.001332" heading="114.375308" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3EE63053-517F-4CA4-A6FE-465B1DD5BF29}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car03_Red-->
+	<SceneryObject lat="48.48299441352105" lon="-113.96013260748350" alt="0.00000000000000" pitch="0.000526" bank="-0.000526" heading="-163.283472" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{07F0F212-3BC6-45C8-9C0B-A0B0B680E90C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Courchevel_Building21-->
+	<SceneryObject lat="48.48388783847620" lon="-113.96150627778739" alt="0.00000000000000" pitch="0.001298" bank="-0.001298" heading="172.926866" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0722FD6E-75C3-4A5D-AD5B-311A8F3E216E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Picnic_Table01_red-->
+	<SceneryObject lat="48.48394422361584" lon="-113.96143463448097" alt="0.00000000000000" pitch="0.000458" bank="-0.000458" heading="163.972666" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{EAB949A6-3E1A-4C22-9294-E17C02271988}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pilot_Male_Casual_IDLE-->
+	<SceneryObject lat="48.48394239499613" lon="-113.96141024401916" alt="0.00000000000000" pitch="0.000280" bank="-0.000280" heading="-20.733217" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{19775524-A6DB-4C31-BE0A-A46767107B87}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="48.48366887974304" lon="-113.96062810042187" alt="0.00000000000000" pitch="0.001544" bank="-0.001865" heading="-102.290969" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Cessna 208B Grand Caravan EX Civil Air Patrol" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="48.48395601274035" lon="-113.96141126511881" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Tarmac_Male_Summer_Hispanic" scale="1.000000"/>
+	</SceneryObject>
+	<Airport country="United States" state="Montana" city="Columbia Falls" name="Ryan Field" ident="2MT1" lat="48.48309342389253" lon="-113.96074873864059" alt="1108.71737428382039" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiName index="0" name=""/>
+		<Runway lat="48.48291611483999" lon="-113.96074694016973" alt="1097.08009046316147" heading="171.00000000000000" length="762.00000000000000" width="20.00000000000000" patternAltitude="1420.00000000000000" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="TRUE" number="15" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="48.48620474618973" lon="-113.96156124337514" alt="1097.60416248440742" heading="171.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="48.47951911226660" lon="-113.96009622348285" alt="1096.71644694264978" heading="351.00000000000000"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<DeleteAirport deleteAllApproaches="TRUE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE"/>
+	</Airport>
+</FSData>
+
