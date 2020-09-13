@@ -1,4 +1,4 @@
-<AssetPackage Name="skyfod-mt53-carsonfield" Version="1.0.0">
+<AssetPackage Name="skyfod-mt53-carsonfield" ReleaseNotes="PackageDefinitions\skyfod-mt53-carsonfield\ReleaseNotes.xml" Version="1.0.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title/>

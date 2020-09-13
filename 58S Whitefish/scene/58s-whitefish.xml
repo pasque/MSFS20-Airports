@@ -173,14 +173,6 @@
 		<LibraryObject name="{085A0232-028F-4B12-94CD-1C70AB541601}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling03_High-->
-	<SceneryObject lat="48.40807480934074" lon="-114.30177612683718" alt="0.00000000000000" pitch="0.172459" bank="-1.222053" heading="-66.407880" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
-		<LibraryObject name="{085A0232-028F-4B12-94CD-1C70AB541601}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: Fence_Grilling03_High-->
-	<SceneryObject lat="48.40812647316168" lon="-114.30194361002826" alt="0.00000000000000" pitch="0.142653" bank="-1.137804" heading="-64.450601" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
-		<LibraryObject name="{085A0232-028F-4B12-94CD-1C70AB541601}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: Fence_Grilling03_High-->
 	<SceneryObject lat="48.40817758325212" lon="-114.30210775940365" alt="0.00000000000000" pitch="0.068528" bank="-1.072832" heading="-64.476460" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
 		<LibraryObject name="{085A0232-028F-4B12-94CD-1C70AB541601}" scale="1.000000"/>
 	</SceneryObject>
@@ -393,6 +385,26 @@
 		<LibraryObject name="{AFB80FD5-D804-4B82-B6E6-4CEBD4127819}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling03_Little-->
+	<SceneryObject lat="48.40807910945754" lon="-114.30179779887038" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="115.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AFB80FD5-D804-4B82-B6E6-4CEBD4127819}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling03_Little-->
+	<SceneryObject lat="48.40809118615739" lon="-114.30185614206205" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="98.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AFB80FD5-D804-4B82-B6E6-4CEBD4127819}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling03_Little-->
+	<SceneryObject lat="48.40810259933599" lon="-114.30191434967934" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="115.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AFB80FD5-D804-4B82-B6E6-4CEBD4127819}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling03_Little-->
+	<SceneryObject lat="48.40811284621508" lon="-114.30197300320864" alt="0.00000000000000" pitch="0.000710" bank="-0.000710" heading="92.691814" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AFB80FD5-D804-4B82-B6E6-4CEBD4127819}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling03_Little-->
+	<SceneryObject lat="48.40813283238821" lon="-114.30201416731684" alt="0.00000000000000" pitch="0.000888" bank="-0.000888" heading="157.574541" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AFB80FD5-D804-4B82-B6E6-4CEBD4127819}" scale="0.892500"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling03_Little-->
 	<SceneryObject lat="48.40871051030391" lon="-114.30470065991081" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="109.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{AFB80FD5-D804-4B82-B6E6-4CEBD4127819}" scale="1.000000"/>
 	</SceneryObject>
@@ -415,6 +427,10 @@
 	<!--SceneryObject name: Fence_Grilling04_B_PortalBig-->
 	<SceneryObject lat="48.40602282749079" lon="-114.29639993472929" alt="0.00000000000000" pitch="1.879407" bank="-2.153133" heading="-68.079665" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
 		<LibraryObject name="{573E871B-D4AE-497A-B7EB-03568DAA72ED}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_PortalSmall-->
+	<SceneryObject lat="48.40805924341688" lon="-114.30172991256423" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="112.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A9CDB60E-42A0-45BE-A0B6-032CE4C286FC}" scale="1.159704"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar05-->
 	<SceneryObject lat="48.40790376121011" lon="-114.30156443642137" alt="0.00000000000000" pitch="1.285270" bank="0.279065" heading="24.609643" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
@@ -1219,11 +1235,11 @@
 				<Vertex lat="48.40556287161546" lon="-114.29664171563124"/>
 				<Vertex lat="48.40559457334396" lon="-114.29675358646993"/>
 			</Apron>
-			<Apron surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.625123" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
-				<Vertex lat="48.40830748709625" lon="-114.30117235243539"/>
-				<Vertex lat="48.40798600758257" lon="-114.30139517322644"/>
-				<Vertex lat="48.40804088427810" lon="-114.30157378559687"/>
-				<Vertex lat="48.40836236413458" lon="-114.30135096569185"/>
+			<Apron surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="1.133039" falloff="8.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="48.40804161866675" lon="-114.30157481013973"/>
+				<Vertex lat="48.40836224414601" lon="-114.30134941439076"/>
+				<Vertex lat="48.40830673270408" lon="-114.30117127577194"/>
+				<Vertex lat="48.40798610757065" lon="-114.30139667239537"/>
 			</Apron>
 		</Aprons>
 		<PaintedElements/>
